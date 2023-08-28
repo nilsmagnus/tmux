@@ -2,12 +2,14 @@
 
 Hent Tmux Plugin Manager https://github.com/tmux-plugins/tpm
 
-### Linux
+> mkdir -f ~/.config/tmux/plugins
+> git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
+
+### Linux og Mac
 
 cd ~/.config
 git clone https://github.com/finnjohnsen/tmux
 
-### Mac
 
 ## Cheat Sheet
 
@@ -28,3 +30,9 @@ c-b !
 2. marker c-b m
 1. bytt til vinduet som har pane
 1. c-b :join-pane
+
+## Alacritty
+Alacritty er en lettvekt terminal emulator som funker i Linux og Mac (og muligens Windows).
+
+Her er mitt Alacritty -oppsett; som egentlig kun starter tmux automatisk
+git clone https://github.com/finnjohnsen/alacritty ~/.config/alacritty
