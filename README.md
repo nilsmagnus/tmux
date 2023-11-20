@@ -2,13 +2,13 @@
 
 Hent Tmux Plugin Manager https://github.com/tmux-plugins/tpm
 
-> mkdir -f ~/.config/tmux/plugins
-> git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
+    mkdir -f ~/.config/tmux/plugins
+    git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 
 ### Linux og Mac
 
-cd ~/.config
-git clone https://github.com/finnjohnsen/tmux
+    cd ~/.config
+    git clone https://github.com/finnjohnsen/tmux
 
 
 ## Cheat Sheet
